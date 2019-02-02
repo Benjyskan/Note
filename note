@@ -1,0 +1,8 @@
+automatic variable: on the stack
+Dynamic allocation: on the heap
+static memory allocation is the allocation of memory at compile time, unlike dynamic memory allocation or automatic memory allocation where memory is allocated as required at run time.
+
+
+stack/pile: last-in-first-out (magic like)
+
+https://www.vanstechelman.eu/content/creating-an-uefi-bootable-linux-usb-stick
