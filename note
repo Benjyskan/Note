@@ -6,3 +6,6 @@ static memory allocation is the allocation of memory at compile time, unlike dyn
 stack/pile: last-in-first-out (magic like)
 
 https://www.vanstechelman.eu/content/creating-an-uefi-bootable-linux-usb-stick
+
+Zerg macro tips:
+https://www.youtube.com/watch?v=YRbOx9Vf9TM
